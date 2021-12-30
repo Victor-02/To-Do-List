@@ -10,4 +10,4 @@ Para instalar, instale todos os pacotes com o comando
 Em seguida, inicie o servidor com o comando
 ### npm start
 
-Fiz essa aplicação com base nesse video: https://www.youtube.com/watch?v=ErjWNvP6mko&t=1150s
+Fiz essa aplicação com base nesse -> [Video](https://www.youtube.com/watch?v=ErjWNvP6mko&t=1150s)
