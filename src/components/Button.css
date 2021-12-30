@@ -1,12 +1,17 @@
-.Button{
-    background-color: rgb(76, 7, 206);
-    height: 40px;
-    padding: 0 10px;
-    border-radius: 5px;
-    width: 100%;
-    font-size: 16px;
-    color: white;
-    font-weight: bold;
-    cursor: pointer;
-    border: none;
+.Button {
+  background-color: rgb(76, 7, 206);
+  height: 40px;
+  padding: 0 10px;
+  border-radius: 5px;
+  width: 100%;
+  font-size: 16px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+}
+
+.Button:hover {
+  background-color: rgb(50, 4, 134);
+  transition: 0.3s;
 }
