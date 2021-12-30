@@ -3,7 +3,7 @@
 Minha primeira experiência com React é a famosa To Do List
 
 <p align="center">
-  <img src="public/React App - Opera 2021-12-30 15-39-27.mp4">
+  <img src="public/gif.mp4">
 
 ## Como instalar
 
